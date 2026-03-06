@@ -87,7 +87,7 @@ const HomePage = ({ setCurrentPage }) => {
         <div className="max-w-5xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-slate-900 mb-6">Experiencing a Control Panel Failure?</h2>
           <p className="text-lg text-gray-600 mb-8">Don't let equipment failure halt your production. Our experts are ready to diagnose and repair your industrial electronics.</p>
-          <a href="tel:+919876543210" className="inline-flex items-center bg-slate-900 hover:bg-slate-800 text-white px-8 py-4 rounded-md font-bold uppercase tracking-wider transition-colors shadow-lg">
+          <a href="tel:+919587742574" className="inline-flex items-center bg-slate-900 hover:bg-slate-800 text-white px-8 py-4 rounded-md font-bold uppercase tracking-wider transition-colors shadow-lg">
             <Phone className="mr-2 h-5 w-5" /> Call +91 9587742574
           </a>
         </div>
